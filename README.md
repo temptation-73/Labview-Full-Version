@@ -240,4 +240,4 @@ This repository serves as the official landing page for LabVIEW. The software is
 **Get the most recent version of LabVIEW today!**
 
 ---
-**Last updated:** 2026-09-24 13:13:47 UTC
+**Last updated:** 2026-09-24 18:12:40 UTC
